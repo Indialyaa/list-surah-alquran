@@ -7,9 +7,12 @@ Dosen     : Agung Nugroho,S.Kom.,M.Kom
 ```
 </br></br>
 
- ## ABout
+ ## About
+ Menampilkan nama surat, terjemahan dalam bahasa Indonesia, asma, jumlah ayat dan .diturunkan dimana
+ 
 
  ## API Reference 
+ ```https://api.npoint.io/99c279bb173a6e28359c/data```
 
  ## Documentation
  
